@@ -1,0 +1,5 @@
+Adicionar no início do CSS:
+@import url('https://fonts.googleapis.com/css2?family=Boogaloo&display=swap&#39;);
+
+Na regra do CSS:
+font-family: "Boogaloo", sans-serif;
